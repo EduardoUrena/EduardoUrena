@@ -4,6 +4,6 @@ Soy creativo y capaz de analizar problemas de forma global, lo que sumado a mis 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I have a degree in Computer Engineering and I recently completed a Master's degree in Artificial Intelligence because I am passionate about everything related to this area, especially Machine Learning.
+I have a degree in Computer Science and I recently completed a Master's degree in Artificial Intelligence because I am passionate about everything related to this area, especially Machine Learning.
 
 I am creative and capable of analyzing problems globally, which added to my knowledge of the most current Artificial Intelligence techniques allow me to be very useful working as a Data Scientist.
